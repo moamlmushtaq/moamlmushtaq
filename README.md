@@ -1,16 +1,40 @@
-## Hi there 👋
+<h1 align="center">Hey, I'm Moaml 👋</h1>
 
-<!--
-**moamlmushtaq/moamlmushtaq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+👨‍💻 Full Stack Developer | 🌐 Web & App Builder | 🚀 Passionate about solving real-world problems with code
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧰 Tech Stack
+- 🔧 Languages: `JavaScript`, `TypeScript`, `Dart`, `PHP`
+- ⚙️ Frameworks: `Next.js`, `Flutter`, `Node.js`, `Laravel`
+- 🛠️ Tools: `MongoDB`, `Tailwind CSS`, `Figma`, `GitHub`, `Vercel`
+
+---
+
+### 🚀 My Top Projects
+
+| Project | Description |
+|--------|-------------|
+| [AccessEye](https://github.com/moamlmushtak/accesseye) | 🔐 A GitHub org permission viewer |
+| [Velura](https://github.com/moamlmushtak/velura) | 🎬 Entertainment Hub for the Arab World |
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=moamlmushtaq&show_icons=true&theme=tokyonight" width="400"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moamlmushtaq&layout=compact&theme=tokyonight" width="300"/>
+</p>
+
+---
+
+### 📫 Connect With Me
+
+- 💬 Discord: `https://discord.com/users/308947999822970881`
+- 🌐 [My Website](https://moaml.dev)
+- 📷 Instagram: `https://www.instagram.com/moamlmushtaq/`
+
+---
