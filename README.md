@@ -17,8 +17,8 @@
 
 | Project | Description |
 |--------|-------------|
-| [AccessEye](https://github.com/moamlmushtak/accesseye) | 🔐 A GitHub org permission viewer |
-| [Velura](https://github.com/moamlmushtak/velura) | 🌌 A platform showcasing Arabic creativity through manga, series, and content |
+| [AccessEye](https://github.com/moamlmushtaq/accesseye) | 🔐 A GitHub org permission viewer |
+| [Velura](https://github.com/moamlmushtaq/velura) | 🌌 A platform showcasing Arabic creativity through manga, series, and content |
 
 ---
 
