@@ -18,7 +18,7 @@
 | Project | Description |
 |--------|-------------|
 | [AccessEye](https://github.com/moamlmushtak/accesseye) | 🔐 A GitHub org permission viewer |
-| [Velura](https://github.com/moamlmushtak/velura) | 🎬 Entertainment Hub for the Arab World |
+| [Velura](https://github.com/moamlmushtak/velura) | 🌌 A platform showcasing Arabic creativity through manga, series, and content |
 
 ---
 
@@ -34,7 +34,9 @@
 ### 📫 Connect With Me
 
 - 💬 Discord: `https://discord.com/users/308947999822970881`
-- 🌐 [My Website](https://moaml.dev)
+- 🌐 My Website: Coming Soon...
 - 📷 Instagram: `https://www.instagram.com/moamlmushtaq/`
 
 ---
+
+🎯 Always building, always improving — let's connect and create something impactful!
