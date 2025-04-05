@@ -18,6 +18,7 @@
 | Project | Description |
 |--------|-------------|
 | [AccessEye](https://github.com/moamlmushtaq/accesseye) | 🔐 A GitHub org permission viewer |
+| [Feedify](https://github.com/moamlmushtaq/feedify) | 📬 A feedback and suggestion management tool |
 | [Velura](https://github.com/moamlmushtaq/velura) | 🌌 A platform showcasing Arabic creativity through manga, series, and content |
 
 ---
